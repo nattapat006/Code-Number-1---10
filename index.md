@@ -1,6 +1,6 @@
-#8 ภาษา สบายๆ ง่ายๆ โค้ต Run 1 - 10 ตามมาดูๆ 
+# 8 ภาษา สบายๆ ง่ายๆ โค้ต Run 1 - 10 ตามมาดูๆ 
 
-##ภาษา Bash
+## ภาษา Bash
 
 ![Image](https://raw.githubusercontent.com/nattapat006/Code-Number-1---10/master/Bash/Capture.JPG)
 
@@ -9,7 +9,7 @@
 - Bash เป็นภาษาง่ายที่มีการใช้งานทั่วไปของความต้องการในแต้ละงานของ ผู้ที่ต้องการใช้มัน 
 
 
-##ภาษา CJam
+## ภาษา CJam
 
 ![Image](https://raw.githubusercontent.com/nattapat006/Code-Number-1---10/master/CJam/Show.JPG)
 
@@ -18,7 +18,7 @@
 - CJam เป็นภาษาง่ายที่มีการใช้งานทั่วไปของความต้องการในแต้ละงานของ ผู้ที่ต้องการใช้มัน 
 
 
-##ภาษา Groovy
+## ภาษา Groovy
 
 ![Image](https://raw.githubusercontent.com/nattapat006/Code-Number-1---10/master/Groovy/Show.JPG)
 
@@ -27,7 +27,7 @@
 - Groovy เป็นภาษาง่ายที่มีการใช้งานทั่วไปของความต้องการในแต้ละงานของ ผู้ที่ต้องการใช้มัน 
 
 
-##ภาษา Haskell
+## ภาษา Haskell
 
 ![Image](https://raw.githubusercontent.com/nattapat006/Code-Number-1---10/master/Haskell/Capture.JPG)
 
@@ -36,7 +36,7 @@
 - Groovy เป็นภาษาง่ายที่มีการใช้งานทั่วไปของความต้องการในแต้ละงานของ ผู้ที่ต้องการใช้มัน
 
 
-##ภาษา HTML
+## ภาษา HTML
 
 ![Image](https://raw.githubusercontent.com/nattapat006/Code-Number-1---10/master/HTML/Show.JPG)
 
@@ -45,7 +45,7 @@
 - Groovy เป็นภาษาง่ายที่มีการใช้งานทั่วไปของความต้องการในแต้ละงานของ ผู้ที่ต้องการใช้มัน
 
 
-##ภาษา JavaScript
+## ภาษา JavaScript
 
 ![Image](https://raw.githubusercontent.com/nattapat006/Code-Number-1---10/master/JavaScript/Show.JPG)
 
@@ -54,7 +54,7 @@
 - Groovy เป็นภาษาง่ายที่มีการใช้งานทั่วไปของความต้องการในแต้ละงานของ ผู้ที่ต้องการใช้มัน
 
 
-##ภาษา Python2
+## ภาษา Python2
 
 ![Image](https://raw.githubusercontent.com/nattapat006/Code-Number-1---10/master/Python2/Show.JPG)
 
@@ -63,7 +63,7 @@
 - Groovy เป็นภาษาง่ายที่มีการใช้งานทั่วไปของความต้องการในแต้ละงานของ ผู้ที่ต้องการใช้มัน
 
 
-##ภาษา Rudy
+## ภาษา Rudy
 
 ![Image](https://raw.githubusercontent.com/nattapat006/Code-Number-1---10/master/Rudy/Show.JPG)
 
